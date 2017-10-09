@@ -4,10 +4,10 @@
   <artifactId>gdx-backend-dragome</artifactId>
   <version>1.0.0-ALL_NALANGA_PATCH-SNAPSHOT</version>
   <versioning>
-    <snapshot>
-      <timestamp>20171009.225249</timestamp>
-      <buildNumber>1</buildNumber>
-    </snapshot>
+    <release>1.0.0-ALL_NALANGA_PATCH-SNAPSHOT</release>
+    <versions>
+        <version>1.0.0-ALL_NALANGA_PATCH-SNAPSHOT</version>
+    </versions>
     <lastUpdated>20171009225249</lastUpdated>
   </versioning>
 </metadata>
